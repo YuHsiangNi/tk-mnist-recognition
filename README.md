@@ -10,8 +10,8 @@ and focus on training using Convolutional Neural Network(CNN) for Mnist.
 
 - initialize
 
-![png](img/mnist-window-1.png)
+![png](https://github.com/YuHsiangNi/tk-mnist-recognition/blob/master/img/mnist-window-1.PNG)
 
 - test - recognize
 
-![png](img/mnist-window-2.png)
+![png](https://github.com/YuHsiangNi/tk-mnist-recognition/blob/master/img/mnist-window-2.PNG)
